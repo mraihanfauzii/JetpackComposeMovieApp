@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Submission_Akhir_JetpackCompose</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="menu_profile">Profile</string>
+    <string name="creator">Creator :</string>
+    <string name="name">Muhammad Raihan Fauzi</string>
+    <string name="email">muhammad.raihan.fauzi@gmail.com</string>
+    <string name="required_point">Rp.%d</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="add_to_cart">Add to Cart : Rp.%d</string>
+    <string name="total_order">Total Price : Rp.%d</string>
+    <string name="back">Back</string>
+    <string name="movie_price">Movie</string>
+    <string name="share_message">Hey, I want to watch %1$d movies in RFMovieApp with total Rp.%2$d. I already bought a ticket, do you want to watch that movie with me?</string>
+    <string name="search_hero">Find the movie you want to watch</string>
+    <string name="error">Data failed to load</string>
+</resources>
